@@ -13,7 +13,7 @@ $ python -m pip install mgwr -U
 Save the mgwr.zip in local folder. Open `QGIS 3` and go to `Plugins` -> `Manage and Install plugins` -> `Install from ZIP`. Select the mgwr.zip file and press `install plugins`. The icon for the MGWR plugin will appear in the list of the installed plugins. Tick the checkbox to activate it. The plugin will appear in the ‘plugin’ menu list, toolbar and ‘Processing Toolbox’ panel.
 
 
-![mgwrqgis3.png](:/a8c2594fcfc845e4b7f1b356a6a78517)
+![mgwrqgis3.png](https://github.com/yiwu-gis/mgwr_plugin/blob/main/mgwr.png)
 
 
 ***

@@ -13,7 +13,7 @@ $ python -m pip install mgwr -U
 Save the mgwr.zip in local folder. Open `QGIS 3` and go to `Plugins` -> `Manage and Install plugins` -> `Install from ZIP`. Select the mgwr.zip file and press `install plugins`. The icon for the MGWR plugin will appear in the list of the installed plugins. Tick the checkbox to activate it. The plugin will appear in the ‘plugin’ menu list, toolbar and ‘Processing Toolbox’ panel.
 
 
-![mgwrqgis3.png](https://github.com/yiwu-gis/mgwr_plugin/blob/main/mgwr.png)
+![mgwrqgis3.png](https://github.com/yiwu-gis/mgwr_plugin/blob/main/images/mgwrqgis3.jpeg)
 
 
 ***
@@ -73,6 +73,9 @@ Minimum and Maximum Bandwidth (optional):
 -	[Fotheringham, A.S., Yang, W. and Kang, W., 2017. Multiscale geographically weighted regression (MGWR). Annals of the American Association of Geographers, 107(6), pp.1247-1265.](https://www.tandfonline.com/doi/abs/10.1080/24694452.2017.1352480?casa_token=LL9HQLVnJUkAAAAA:bBSsBZ_fl5gHpqcvya1LEBtCBU0XMzOcRd79RxueihDoucCDOZ5l-cAOQblyn1ujVpG-w3bOFZ36)
 -	[Oshan, T.M., Li, Z., Kang, W., Wolf, L.J. and Fotheringham, A.S., 2019. mgwr: A Python implementation of multiscale geographically weighted regression for investigating process spatial heterogeneity and scale. ISPRS International Journal of Geo-Information, 8(6), p.269.](https://www.mdpi.com/2220-9964/8/6/269)
 -	Xiangyang Song & Jiawei Gao [Geographically Weighted Regression (GWR) Plugin for QGIS](https://github.com/XiangyangSong/GWR_Plugin)
+
+### Current Issue
+- Note that current version is NOT compatible with macOS. We are still working on it.
 
 ### License
 _The Multiscale Geographically Weighted Regression (MGWR) Plugin is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation._

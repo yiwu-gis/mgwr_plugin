@@ -64,6 +64,7 @@ Bandwidth Searching Criterion:
 -	AIC: Akaike information criterion estimates the quality of each model, relative to each of the other models.
 -	BIC: Bayesian information criterion shares the same methodology with AIC, but performs better at model selection.
 -	CV: Cross validation criterion compares the model residuals based on different bandwidths and chooses the optimal solution.
+
 Minimum and Maximum Bandwidth (optional):
 -	Specify the minimum and maximum bandwidth searching range for MGWR calibration.
 -	Minimum or maximum bandwidth can be set as one uniform value for all variables.
@@ -79,7 +80,7 @@ Minimum and Maximum Bandwidth (optional):
 
 ### License
 _The Multiscale Geographically Weighted Regression (MGWR) Plugin is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation._
-Copyright ©  2024 Huaying Gu - [University of Pennsylvania](https://www.upenn.edu/) | Yi Wu – [University of Otago](https://www.otago.ac.nz)
 
+Copyright ©  2024 Huaying Gu - [University of Pennsylvania](https://www.upenn.edu/) | Yi Wu – [University of Otago](https://www.otago.ac.nz)
 
 © 2011-2018 GeoApt LLC - geoapt.com
